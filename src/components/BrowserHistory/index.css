@@ -1,0 +1,10 @@
+.navBar {
+  background-color: #3367d6;
+  display: flex;
+  height: 40px;
+}
+
+.searchBox {
+  background-color: #2850a7;
+  margin: auto;
+}
